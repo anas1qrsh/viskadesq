@@ -34,7 +34,7 @@ Copyright © 2026 Viskasoft. All rights reserved.
 
 The ViskadesQ name, logo, and brand assets may not be used without express written permission from Viskasoft.
 
-For licensing inquiries, please contact Viskasoft.
+**For licensing inquiries, contact:** anas1qrsh@gmail.com
 
 ---
 

@@ -190,8 +190,9 @@ See [LICENSE.md](./LICENSE.md) for details.
 
 ## 📞 Contact
 
+- **Email:** anas1qrsh@gmail.com
+- **GitHub:** [@anas1qrsh](https://github.com/anas1qrsh)
 - **Website:** [Coming Soon]
-- **Email:** [Contact Information]
 - **LinkedIn:** [Viskasoft Company Page]
 
 ---
