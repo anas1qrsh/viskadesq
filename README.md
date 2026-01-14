@@ -97,12 +97,12 @@ ViskadesQ follows a **"Nerve Center"** design approach:
 ## 📸 Screenshots
 
 ### Login Interface
-![ViskadesQ Login Page](./ViskadesQ%20Login%20page.png)
+![ViskadesQ Login Page](./ViskadesQ-Login.png)
 
 *Clean, professional login with ViskadesQ branding*
 
 ### Main Dashboard
-![ViskadesQ Dashboard](./ViskadesQ%20Theme%20Image%20Jan%2013%2C%202026%2C%2012_19_08%20AM.png)
+![ViskadesQ Dashboard](./ViskadesQ-Dashboard.png)
 
 *3-column operational layout with live ticket queue*
 
